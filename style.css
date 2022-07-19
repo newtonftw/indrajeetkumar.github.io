@@ -2,20 +2,28 @@
 .navbarScroll.navbarDark {
     background-color: black
 }
+.title {
+    font-family: inherit;
+    font-size: 2rem;
+    color: ghostwhite;
+}
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/pog.png.png');
+    background: url('images/okok.jpg');
     background-repeat: no-repeat;
     background-size:100% 100%;
     position:;
 }
 /* text css above hero image*/
-.hero_title {
-    font-size: 4.5rem;
+.arial {
+    font-family: fantasy ;
+    font-size: 7.5rem;
+    font-weight: 300;
 }
 .hero_desc {
     font-size: 2rem;
+    font-weight: 400;
 }
 .hero-text {
     text-align: center;
@@ -23,5 +31,5 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    color: rgb(183, 18, 18);
+    color: rgb(4, 7, 5);
 }
