@@ -33,3 +33,13 @@
     transform: translate(-50%, -50%);
     color: rgb(4, 7, 5);
 }
+.text-center {
+    font-family: 'Courier New', Courier, monospace;
+}
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
+}
+.col-lg-8 {
+    font-size: 1rem;
+}
