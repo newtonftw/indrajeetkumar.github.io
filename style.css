@@ -10,16 +10,16 @@
 /* hero background image */
 .bgimage {
     height:100vh;
-    background: url('images/okok.jpg');
+    background: url('images/this.jpg');
     background-repeat: no-repeat;
     background-size:100% 100%;
     position:;
 }
 /* text css above hero image*/
 .arial {
-    font-family: fantasy ;
-    font-size: 7.5rem;
-    font-weight: 300;
+    font-family: Arial, Helvetica, sans-serif ;
+    font-size: 5.5rem;
+    font-weight: 400;
 }
 .hero_desc {
     font-size: 2rem;
