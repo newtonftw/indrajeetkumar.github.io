@@ -92,7 +92,7 @@
     color:var(--primary-color);
   }
   .bgimage2 {
-    height:100vh;
+    height:fit-content;
     background: url('images/good.jpg');
     background-repeat: no-repeat;
     background-size:100% 100%;
@@ -178,4 +178,11 @@
 #footer {
   background-color: #808080;
   text-align: center;
+}
+.bgimage3 {
+  height: 100vh;
+  background: url('images/kok.jpeg');
+  background-repeat: no-repeat;
+  background-size:100% 100%;
+  position: 5px;
 }
